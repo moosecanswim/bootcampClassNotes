@@ -1,0 +1,21 @@
+Classes:
+Mimic real wold objects- (blueprint for an object) 
+“virtual reality”
+composition- when a class is composed of other classes
+encapsulation- when you are hiding data from outside classes
+
+we need to create an instance of the object to create it.
+
+
+How to change the repository location from one that you cloned
+Create a new repository location on gitHub
+git remote -v  //[see the current repository url]
+copy the url that you want to send it too
+git remote set-url origin {your url from the previous step}
+git add .
+git status
+git push -u origin master
+//username
+//password
+DONE
+
